@@ -1,2 +1,2 @@
 # Bienvenido
-Bienvenida para quienes visiten el repositorio
+## Bienvenida para quienes visiten el repositorio
